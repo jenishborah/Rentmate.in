@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rentmate.in/static/css/main.68954b83.css",
+    "main.js": "/Rentmate.in/static/js/main.d0a9f98b.js",
+    "static/js/453.e756c0f1.chunk.js": "/Rentmate.in/static/js/453.e756c0f1.chunk.js",
+    "static/media/video2.MP4": "/Rentmate.in/static/media/video2.a98198c322f6158f2424.MP4",
+    "static/media/Video1.mp4": "/Rentmate.in/static/media/Video1.f2fa02890783cc571e39.mp4",
+    "static/media/P1.png": "/Rentmate.in/static/media/P1.97f878d27d256ceda5aa.png",
+    "static/media/P2.png": "/Rentmate.in/static/media/P2.662230973778c489f82e.png",
+    "static/media/P3.jpeg": "/Rentmate.in/static/media/P3.55148f7519b08a381a7e.jpeg",
+    "static/media/P4.jpeg": "/Rentmate.in/static/media/P4.a4956edf8b73653ec516.jpeg",
+    "static/media/slick.svg": "/Rentmate.in/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Rentmate.in/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Rentmate.in/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Rentmate.in/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Rentmate.in/index.html",
+    "main.68954b83.css.map": "/Rentmate.in/static/css/main.68954b83.css.map",
+    "main.d0a9f98b.js.map": "/Rentmate.in/static/js/main.d0a9f98b.js.map",
+    "453.e756c0f1.chunk.js.map": "/Rentmate.in/static/js/453.e756c0f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68954b83.css",
+    "static/js/main.d0a9f98b.js"
+  ]
+}
