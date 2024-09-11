@@ -1,0 +1,25 @@
+/* Contact Section Styles */
+.contact-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #2C3E50;
+    color: white;
+  }
+  
+  .contact-icons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .contact-icon {
+    font-size: 2rem;
+    color: white;
+    transition: transform 0.2s ease;
+  }
+  
+  .contact-icon:hover {
+    transform: scale(1.2);
+  }
+  

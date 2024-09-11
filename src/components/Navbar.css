@@ -1,0 +1,33 @@
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #2C3E50;
+  }
+  
+  .logo-img {
+    height: 60px;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+  }
+  
+  .nav-links a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .login-btn {
+    background-color: #E74C3C;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  
